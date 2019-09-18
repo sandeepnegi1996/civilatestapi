@@ -81,7 +81,7 @@ router.post("/latestrecord",(req,res)=>{
 
 
 
-
+//just
 	
 		   console.log(finaldataReturn);
 		    
